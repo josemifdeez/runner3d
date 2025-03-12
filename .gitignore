@@ -1,16 +1,13 @@
-# Archivos de Unity
-[Llibray]
-[Logs]
-[Temp]
-[Obj]
-[Builds]
-[MemoryCaptures]
-[UserSettings]
-[*.sln]
-[*.csproj]
-[*.unityproj]
+# Carpetas de Unity que no deben subirse
+Library/
+Logs/
+Temp/
+Obj/
+Builds/
+MemoryCaptures/
+UserSettings/
 
-# Archivos específicos de Unity que no deben subirse
+# Archivos específicos de Unity
 *.pidb
 *.suo
 *.user
@@ -44,7 +41,15 @@ htdocs/
 *.tar.gz
 *.rar
 
-# Carpetas del sistema
+# Carpetas del sistema y archivos temporales
 .DS_Store
 Thumbs.db
-" " 
+
+# Archivos de Visual Studio que no deben subirse
+.vs/
+.vscode/
+*.vsconfig
+
+# Carpetas de compilación de C#
+bin/
+obj/
