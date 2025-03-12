@@ -1,0 +1,50 @@
+# Archivos de Unity
+[Llibray]
+[Logs]
+[Temp]
+[Obj]
+[Builds]
+[MemoryCaptures]
+[UserSettings]
+[*.sln]
+[*.csproj]
+[*.unityproj]
+
+# Archivos específicos de Unity que no deben subirse
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.sln
+*.swp
+*.tmp
+*.bak
+*.svd
+
+# XAMPP y bases de datos locales
+xampp/
+htdocs/
+*.sql
+*.db
+
+# Archivos de compilación y dependencias
+*.exe
+*.dll
+*.apk
+*.app
+*.ipa
+*.class
+*.jar
+*.pdb
+*.idb
+*.obj
+*.so
+*.zip
+*.tar.gz
+*.rar
+
+# Carpetas del sistema
+.DS_Store
+Thumbs.db
+" " 
