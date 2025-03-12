@@ -30,7 +30,7 @@ Juego estilo runner en 3D donde esquivas obstáculos, recoges items para sumar p
 
 ## ⚙️ Cómo ejecutar el juego
 
-- Clona el repositorio: git clone git clone URL
+- Clona el repositorio `https://github.com/josemifdeez/runner3d.git`
 - Instala XAMPP y coloca los archivos PHP incluidos en la carpeta htdocs: C:/xampp/htdocs/runner/
 - Inicia los servicios Apache y MySQL desde el panel de control de XAMPP.
 - Importa la base de datos incluida en el repositorio (archivo SQL).
