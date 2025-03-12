@@ -1,0 +1,43 @@
+# Blender MTL File: 'Sea bomb.blend'
+# Material Count: 4
+
+newmtl Material.001
+Ns 357.821483
+Ka 1.000000 1.000000 1.000000
+Kd 0.141163 0.141163 0.141163
+Ks 0.470909 0.470909 0.470909
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Blender\\metal_grungy01-m-color.jpg
+
+newmtl Material.002
+Ns 119.338821
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.574362 0.574362 0.574362
+Ke 0.000000 0.000000 0.000000
+Ni 1.150000
+d 1.000000
+illum 3
+map_Kd D:\\Blender\\metal_rotten-l-color.jpg
+
+newmtl Material.003
+Ns 24.449577
+Ka 0.923636 0.923636 0.923636
+Kd 1.000000 1.000000 1.000000
+Ks 0.185271 0.185271 0.185271
+Ke 0.000000 0.000000 0.000000
+Ni 1.150000
+d 1.000000
+illum 3
+map_Kd D:\\Blender\\MetalMalachite001_Sphere.png
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
