@@ -15,7 +15,7 @@ Juego estilo runner en 3D donde esquivas obstáculos, recoges items para sumar p
 <p align="left">
 <img src="https://img.shields.io/badge/C%23-7B3399?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/xampp-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp" />
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 
